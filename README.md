@@ -1,0 +1,1 @@
+Welcome to our simple shell group project
